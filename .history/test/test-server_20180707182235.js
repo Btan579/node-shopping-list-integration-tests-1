@@ -129,7 +129,7 @@ describe("Shopping List", function() {
         })
     );
   });
-// hammsterwheeling
+
   // test strategy:
   //  1. GET shopping list items so we can get ID of one
   //  to delete.
